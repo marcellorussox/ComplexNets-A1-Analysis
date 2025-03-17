@@ -1,6 +1,7 @@
 .idea
 data
 images
+reports
 network_metrics.csv
 
 # Byte-compiled / optimized / DLL files
