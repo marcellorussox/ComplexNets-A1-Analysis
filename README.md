@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the code and data for the Complex Networks course activity (A1). The goal is to analyze structural properties of synthetic networks (net1-net5) and identify their generative models.
 
-## Repository Structure
+## Project Structure
 ```
 ├── data/
 │ ├── net1.net
