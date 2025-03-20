@@ -14,10 +14,11 @@ This repository contains the code and data for the Complex Networks course activ
 │ └── positions_net5.net # Spatial coordinates for net5
 ├── plots/
 ├── reports/
+│ ├── analysis_report.pdf
 │ └── GroupXXX_SURNAME1_SURNAME2_A1.pdf
 ├── .gitignore
 ├── LICENSE
-└── Network_Analysis.ipynb # Jupyter notebook with analysis
+└── Network_Analysis.ipynb
 ```
 
 ## Activity Overview
