@@ -83,4 +83,3 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 ## Acknowledgments
 - Course: Complex Networks (Universitat Rovira i Virgili)
 - NetworkX documentation for metric calculations
-- 
